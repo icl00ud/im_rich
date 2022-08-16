@@ -1,16 +1,33 @@
-# im_rich
+<h1 align="left">Sobre o projeto</h1>
 
-A new Flutter project.
+###
 
-## Getting Started
+<p align="left">Esse projeto foi um exercício de sala para fazermos uma réplica do aplicativo I'm Rich, encontrados na Play Store e App Store.</p>
 
-This project is a starting point for a Flutter application.
+###
 
-A few resources to get you started if this is your first Flutter project:
+<h2 align="left">Aprendizados</h2>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+###
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="left">Neste projeto aprendi como funcionam as árvores de widgets que são uma maneira diferente de observar como um projeto é feito, além de estar me familiarizando com Dart/Flutter.</p>
+
+###
+
+<h1 align="left">Screenshots</h1>
+
+###
+  ![telainicial(1)](https://user-images.githubusercontent.com/98751190/184913327-e3c93dc9-0bc1-42bd-bd38-ffaa406380ee.png)
+
+###
+
+<h1 align="left">Construido com</h1>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="100" width="125" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="100" width="125" alt="dart logo"  />
+</div>
+
+###
